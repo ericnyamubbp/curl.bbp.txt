@@ -1,0 +1,5 @@
+http://email.msd.com/.hta/
+http://email.msd.com/.htaccess/
+http://email.msd.com/.htaccess-local/
+http://email.msd.com/.htaccess-dev/
+http://email.msd.com/.ht_wsr.txt
